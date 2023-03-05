@@ -4,4 +4,5 @@ type Note
   id: ID!
   name: String!
   description: String
+  image: String
 }
